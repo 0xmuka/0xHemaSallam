@@ -21,17 +21,19 @@
 
 
 🔗 Check out my [Blog](https://ibrahim-sallam.me/) to explore in-depth articles on cybersecurity and stay updated on the latest security trends.
+
+
 ### Skills and Expertise:
 
-- **Penetration Testing**: Proficient in ethical hacking, vulnerability assessment, and penetration testing of information systems to identify and mitigate security risks.
-- **Web Application Security**: Extensive experience in securing web applications, detecting vulnerabilities, and implementing robust security measures.
-- **Network Security**: Knowledge of network security principles, including firewall configurations, intrusion detection, and secure network design.
-- **Operating Systems**: Familiar with various operating systems, including Windows, Linux, and macOS.
-- **Security Tools**: Skilled in using a wide range of penetration testing tools, including Metasploit, Burp Suite, Nmap, and Wireshark.
-- **Coding Skills**: Strong programming background for a deep understanding of vulnerabilities and security flaws in code.
-- **Security Best Practices**: A commitment to following security best practices, staying up-to-date with the latest security threats, and applying patches and updates.
-- **Report Writing**: Proficient in preparing detailed reports on security findings, vulnerabilities, and recommended solutions.
-- **Secure Development**: Advocate for secure software development practices to prevent security issues in the early stages of application design.
+- **Penetration Testing**: Proficient in ethical hacking, vulnerability assessment, and penetration testing of information systems to identify and mitigate security risks. 🔒
+- **Web Application Security**: Extensive experience in securing web applications, detecting vulnerabilities, and implementing robust security measures. 🌐
+- **Network Security**: Knowledge of network security principles, including firewall configurations, intrusion detection, and secure network design. 🌐
+- **Operating Systems**: Familiar with various operating systems, including Windows, Linux, and macOS. 💻
+- **Security Tools**: Skilled in using a wide range of penetration testing tools, including Metasploit, Burp Suite, Nmap, and Wireshark. 🛠️
+- **Coding Skills**: Strong programming background for a deep understanding of vulnerabilities and security flaws in code. 💻
+- **Security Best Practices**: A commitment to following security best practices, staying up-to-date with the latest security threats, and applying patches and updates. 🔐
+- **Report Writing**: Proficient in preparing detailed reports on security findings, vulnerabilities, and recommended solutions. 📋
+- **Secure Development**: Advocate for secure software development practices to prevent security issues in the early stages of application design. 🏗️
 
 
 ### Connect with Me :
