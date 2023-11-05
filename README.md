@@ -8,15 +8,19 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering;Penetration%20Tester;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Penetration%20Tester;Software%20Engineering;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineering && Penetration Tester
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with PHP, Larvel, Python, and Django, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my Blog at https://ibrahim-sallam.me/ 
+🔍 As a Penetration Tester, I delve into the world of cybersecurity, hunting for vulnerabilities and securing digital fortresses.
 
+🚀 My journey as a penetration tester involves continuous learning and embracing emerging technologies to stay ahead in the cat-and-mouse game of cyber threats.
+
+💼 You can ask me about my hands-on experience with PHP, Laravel, Python, and Django, or anything related to web development, as I combine my software engineering skills with my passion for security.
+
+☕ A coffee enthusiast by day, I ensure that every digital adventure starts and ends with a strong cup of coffee to fuel my passion for cybersecurity.
+
+
+🔗 Check out my [Blog](https://ibrahim-sallam.me/) to explore in-depth articles on cybersecurity and stay updated on the latest security trends.
 ### Skills and Expertise:
 
 - **Penetration Testing**: Proficient in ethical hacking, vulnerability assessment, and penetration testing of information systems to identify and mitigate security risks.
