@@ -15,7 +15,7 @@
 
 🚀 My journey as a penetration tester involves continuous learning and embracing emerging technologies to stay ahead in the cat-and-mouse game of cyber threats.
 
-💼 You can ask me about my hands-on experience with PHP, Laravel, Python, and Django, or anything related to web development, as I combine my software engineering skills with my passion for security.
+💼 You can ask me about my hands-on experience with PHP, Laravel, Python, and Django, or anything related to web development, as I combine my software engineering skills with my passion for cybersecurity.
 
 ☕ A coffee enthusiast by day, I ensure that every digital adventure starts and ends with a strong cup of coffee to fuel my passion for cybersecurity.
 
