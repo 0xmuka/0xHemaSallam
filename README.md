@@ -15,7 +15,19 @@
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Larvel, Python, and Django, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://ibrahim-sallam.me/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my Blog at https://ibrahim-sallam.me/ 
+
+### Skills and Expertise:
+
+- **Penetration Testing**: Proficient in ethical hacking, vulnerability assessment, and penetration testing of information systems to identify and mitigate security risks.
+- **Web Application Security**: Extensive experience in securing web applications, detecting vulnerabilities, and implementing robust security measures.
+- **Network Security**: Knowledge of network security principles, including firewall configurations, intrusion detection, and secure network design.
+- **Operating Systems**: Familiar with various operating systems, including Windows, Linux, and macOS.
+- **Security Tools**: Skilled in using a wide range of penetration testing tools, including Metasploit, Burp Suite, Nmap, and Wireshark.
+- **Coding Skills**: Strong programming background for a deep understanding of vulnerabilities and security flaws in code.
+- **Security Best Practices**: A commitment to following security best practices, staying up-to-date with the latest security threats, and applying patches and updates.
+- **Report Writing**: Proficient in preparing detailed reports on security findings, vulnerabilities, and recommended solutions.
+- **Secure Development**: Advocate for secure software development practices to prevent security issues in the early stages of application design.
 
 
 ### Connect with Me :
@@ -24,7 +36,6 @@
 <a href="https://twitter.com/0xHema_" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.facebook.com/0xhema" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://t.me/ibrahim0sallam" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="contact@ibrahim-sallam.me" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Email&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
