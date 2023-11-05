@@ -20,9 +20,9 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ibrahim-sallam-048131241/" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/ibrahim0sallam" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.facebook.com/Ibrahim0Sallam" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/0xhema" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/0xHema_" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.facebook.com/0xhema" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://t.me/ibrahim0sallam" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Sallam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -40,8 +40,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-sallam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xHemaSallamshow_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=ibrahim-sallam&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ibrahim-sallam&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=0xHemaSallam&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=0xHemaSallam&style=for-the-badge">
 </a>
