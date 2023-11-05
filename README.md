@@ -40,7 +40,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xHemaSallamshow_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xHemaSallam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=0xHemaSallam&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=0xHemaSallam&style=for-the-badge">
